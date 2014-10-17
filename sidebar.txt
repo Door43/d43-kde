@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kde:home|Door43 (kde)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kde|d43-kde repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kde/archive/master.zip|d43-kde.zip]]
+
+**Recent Changes**
+{{changes>ns = kde}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kde|Ethnologue data]]
+
